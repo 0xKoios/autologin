@@ -1,7 +1,7 @@
-user_list = {"1": {"username": "s8023879",
-                   "password": "manopsae"},
-             "2": {"username": "piyaratlim",
-                   "password": "N8023879"}}
+user_list = {"1": {"username": "xxxxxxx",
+                   "password": "xxxxxxx"},
+             "2": {"username": "xxxxxxx",
+                   "password": "xxxxxxx"}}
 
 url_google_sheet = "https://docs.google.com/spreadsheets/d/1YUzuWOA3E9Frpjn1UzfFuVxOcodCKnx57p8qdYJm0C8" \
                    "/edit?usp=sharing"
